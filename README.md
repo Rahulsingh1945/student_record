@@ -1,2 +1,2 @@
-# student_record
-using numpy
+# numpy practice project
+
